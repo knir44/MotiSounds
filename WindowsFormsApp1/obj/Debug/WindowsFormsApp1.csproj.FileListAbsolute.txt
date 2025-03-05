@@ -1,0 +1,41 @@
+C:\Users\knir4\OneDrive\שולחן העבודה\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\knir4\OneDrive\שולחן העבודה\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\knir4\OneDrive\שולחן העבודה\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\knir4\OneDrive\שולחן העבודה\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\knir4\OneDrive\שולחן העבודה\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\knir4\OneDrive\שולחן העבודה\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\knir4\OneDrive\שולחן העבודה\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\knir4\OneDrive\שולחן העבודה\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\knir4\OneDrive\שולחן העבודה\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\knir4\OneDrive\שולחן העבודה\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+F:\Nir\Balum\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\Nir\Balum\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\Nir\Balum\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\Nir\Balum\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.dll
+F:\Nir\Balum\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.Asio.dll
+F:\Nir\Balum\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.Core.dll
+F:\Nir\Balum\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.dll
+F:\Nir\Balum\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.Midi.dll
+F:\Nir\Balum\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.Wasapi.dll
+F:\Nir\Balum\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.WinForms.dll
+F:\Nir\Balum\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.WinMM.dll
+F:\Nir\Balum\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.dll
+F:\Nir\Balum\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.dll
+F:\Nir\Balum\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Win32.Registry.xml
+F:\Nir\Balum\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.xml
+F:\Nir\Balum\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.Asio.xml
+F:\Nir\Balum\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.Core.xml
+F:\Nir\Balum\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.Midi.xml
+F:\Nir\Balum\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.Wasapi.xml
+F:\Nir\Balum\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.WinForms.xml
+F:\Nir\Balum\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.WinMM.xml
+F:\Nir\Balum\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.xml
+F:\Nir\Balum\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.xml
+F:\Nir\Balum\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+F:\Nir\Balum\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+F:\Nir\Balum\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\Nir\Balum\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+F:\Nir\Balum\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+F:\Nir\Balum\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+F:\Nir\Balum\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\Nir\Balum\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
